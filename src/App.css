@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+html {
+	background-color: #fff;
+	-webkit-font-smoothing: antialiased;
+	}
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #23292D;
+    background: #fff;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #23292D;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+		font-size: 2em;
+    font-style: normal;
+    letter-spacing: 2px;
+    text-align: left;
+}
+p {
+  margin: auto;
+  font-family: "Lora";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  color: #23292D;
+}
